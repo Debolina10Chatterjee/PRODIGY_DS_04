@@ -11,6 +11,9 @@ The [Amazon Customer Reviews Dataset](https://www.kaggle.com/datasets/thedevasta
 - **sentiment_analysis.ipynb**: Colab Notebook containing the Python code for sentiment analysis, data visualization, and additional analysis.
 - **Amazon Review.csv**: The dataset used for sentiment analysis.
 - **README.md**: This file providing an overview of the project.
+  
+## 🚀 Clone the repository:
+https://github.com/Debolina10Chatterjee/PRODIGY_DS_01.git
 
 ## 💬 Sentiment Analysis
 
