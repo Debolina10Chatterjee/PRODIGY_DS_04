@@ -36,4 +36,4 @@ Various visualizations are created to understand sentiment distributions and wor
 
 The analysis reveals insights into customer sentiments towards Amazon products. Majority of the reviews are positive, indicating overall satisfaction with purchases. However, there are also critical reviews that need attention for improvement. The visualization of word frequencies and ratings provides further insights into customer feedback.
 
-For any questions or suggestions, feel free to contact Debolina Chatterjee at debolina10chatterjee@gmail.com  (mailto:  debolina10chatterjee@gmail.com).
+For any questions or suggestions, feel free to contact Debolina Chatterjee at debolinachatterjee1011@gmail.com  (mailto:  debolinachatterjee1011@gmail.com).
